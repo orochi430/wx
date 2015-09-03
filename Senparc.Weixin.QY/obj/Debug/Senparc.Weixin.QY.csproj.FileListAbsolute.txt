@@ -1,0 +1,7 @@
+F:\BaiduYunDownload\index.exe\WeiXinMPSDK-master\Senparc.Weixin.QY\Senparc.Weixin.QY\bin\Debug\Senparc.Weixin.QY.dll
+F:\BaiduYunDownload\index.exe\WeiXinMPSDK-master\Senparc.Weixin.QY\Senparc.Weixin.QY\bin\Debug\Senparc.Weixin.QY.pdb
+F:\BaiduYunDownload\index.exe\WeiXinMPSDK-master\Senparc.Weixin.QY\Senparc.Weixin.QY\bin\Debug\Senparc.Weixin.dll
+F:\BaiduYunDownload\index.exe\WeiXinMPSDK-master\Senparc.Weixin.QY\Senparc.Weixin.QY\bin\Debug\Senparc.Weixin.pdb
+F:\BaiduYunDownload\index.exe\WeiXinMPSDK-master\Senparc.Weixin.QY\Senparc.Weixin.QY\obj\Debug\Senparc.Weixin.QY.csprojResolveAssemblyReference.cache
+F:\BaiduYunDownload\index.exe\WeiXinMPSDK-master\Senparc.Weixin.QY\Senparc.Weixin.QY\obj\Debug\Senparc.Weixin.QY.dll
+F:\BaiduYunDownload\index.exe\WeiXinMPSDK-master\Senparc.Weixin.QY\Senparc.Weixin.QY\obj\Debug\Senparc.Weixin.QY.pdb
